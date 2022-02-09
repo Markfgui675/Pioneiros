@@ -826,8 +826,4 @@ footer .rights p a{
     .avaliação .box3 .box-text .text2 p{
         font-size: 16px;
     }
-    
-    footer{
-        flex-direction: column;
-    }
 }
