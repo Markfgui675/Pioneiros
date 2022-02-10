@@ -310,6 +310,7 @@ a{
 }
 .card2 .number a p:hover{
     opacity: 0.2;
+    transition: all .5s;
 }
 .card2 .number a{
     color: black;
