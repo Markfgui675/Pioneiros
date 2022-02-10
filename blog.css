@@ -308,6 +308,9 @@ a{
     font-size: 90px;
     opacity: 0.5;
 }
+.card2 .number a p:hover{
+    opacity: 0.2;
+}
 .card2 .number a{
     color: black;
 }
