@@ -46,6 +46,7 @@ a{
   z-index: 1;
 }
 .glider.draggable {
+  width: 100%;
   user-select: none;
   cursor: -webkit-grab;
   cursor: grab;
